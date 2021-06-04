@@ -1,0 +1,23 @@
+{
+  "name": "test_practise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkoNS1990/test_practise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkoNS1990/test_practise/issues"
+  },
+  "homepage": "https://github.com/MarkoNS1990/test_practise#readme",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
